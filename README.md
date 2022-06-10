@@ -1,1 +1,1 @@
-This repository contains TelloXplus.  Please see the include ".pdf" file for more details.
+This repository contains TelloXplus.  Please see the included "TelloXplus.pdf" file for more details.
